@@ -15,3 +15,4 @@
 | 11. | July 21, 2025 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)                                                   | easy       |
 | 12. | July 22, 2025 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                     | easy       |
 | 13. | July 23, 2025 | [67. Add Binary](https://leetcode.com/problems/add-binary)                                                      | easy       |
+| 14. | July 25, 2025 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)                              | easy       |
