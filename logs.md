@@ -16,3 +16,5 @@
 | 12. | July 22, 2025 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                     | easy       |
 | 13. | July 23, 2025 | [67. Add Binary](https://leetcode.com/problems/add-binary)                                                      | easy       |
 | 14. | July 25, 2025 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)                              | easy       |
+| 15. | July 25, 2025 | [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking)                                           | easy       |
+| 16. | July 26, 2025 | [495. Keyboard Row](https://leetcode.com/problems/keyboard-row)                                                 | easy       |
