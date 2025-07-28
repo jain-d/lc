@@ -21,5 +21,6 @@
 | 17. | July 27, 2025 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)                               | easy       |
 | 18. | July 27, 2025 | [643. Maximum Average Subarray 1](https://leetcode.com/problems/maximum-average-subarray-i)                     | easy       |
 | 19. | July 27, 2025 | [121. Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stocks)         | easy       |
-| 20. | July 28, 2025 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)                                            | easy       |
+| 20. | July 28, 2025 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)                                             | easy       |
 | 21. | July 28, 2025 | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image)                                       | easy       |
+| 22. | July 28, 2025 | [21. Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-list)                                | easy       |
