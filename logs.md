@@ -1,5 +1,6 @@
 # Logs
 
+<<<<<<< HEAD
 | No. | Date          | Problem                                                                                                      | Difficulty |
 | --- | ------------- | ------------------------------------------------------------------------------------------------------------ | ---------- |
 | 01. | July 07, 2025 | [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name)                                    | fake easy  |
@@ -26,3 +27,4 @@
 | 23. | July 28, 2025 | [169. Majority Element](https://leetcode.com/problems/majority-element)                                      | easy       |
 | 24. | July 29, 2025 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)                                          | easy       |
 | 25. | July 29, 2025 | [401. Binary Watch](https://leetcode.com/problems/binary-watch)                                              | easy       |
+| 26. | July 30, 2025 | [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)      | easy       |
