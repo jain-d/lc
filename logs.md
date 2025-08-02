@@ -31,3 +31,4 @@
 | 28. | Aug 01, 2025 | [551. Student Attendence Record I](https://leetcode.com/problems/student-attendance-record-i)                    | easy       |
 | 29. | Aug 01, 2025 | [3222. Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game) | easy       |
 | 30. | Aug 02, 2025 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram)                                                | easy       |
+| 31. | Aug 03, 2025 | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)                          | easy       |
