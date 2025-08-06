@@ -32,4 +32,5 @@
 | 29. | Aug 01, 2025 | [3222. Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game) | easy       |
 | 30. | Aug 02, 2025 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram)                                                | easy       |
 | 31. | Aug 04, 2025 | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)                          | fake easy  |
-| 31. | Aug 05, 2025 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)                        | easy       |
+| 32. | Aug 05, 2025 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)                        | easy       |
+| 33. | Aug 06, 2025 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                                         | easy       |
