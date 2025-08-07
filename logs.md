@@ -34,3 +34,4 @@
 | 31. | Aug 04, 2025 | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)                          | fake easy  |
 | 32. | Aug 05, 2025 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)                        | easy       |
 | 33. | Aug 06, 2025 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                                         | easy       |
+| 34. | Aug 07, 2025 | [290. Word Pattern](https://leetcode.com/problems/word-pattern)                                                  | easy       |
