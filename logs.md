@@ -36,3 +36,4 @@
 | 33. | Aug 06, 2025 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)                                         | easy       |
 | 34. | Aug 07, 2025 | [290. Word Pattern](https://leetcode.com/problems/word-pattern)                                                  | easy       |
 | 35. | Aug 07, 2025 | [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)              | easy       |
+| 36. | Aug 08, 2025 | [455. Set Mismatch](https://leetcode.com/problems/set-mismatch)                                                  | easy       |
