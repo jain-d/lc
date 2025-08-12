@@ -38,3 +38,4 @@
 | 35. | Aug 07, 2025 | [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)              | easy       |
 | 36. | Aug 08, 2025 | [455. Set Mismatch](https://leetcode.com/problems/set-mismatch)                                                  | easy       |
 | 37. | Aug 11, 2025 | [202. Happy Number](https://leetcode.com/problems/happy-number)                                                  | easy       |
+| 38. | Aug 12, 2025 | [344. Reverse String](https://leetcode.com/problems/reverse-string)                                              | easy       |
