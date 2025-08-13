@@ -40,3 +40,4 @@
 | 37. | Aug 11, 2025 | [202. Happy Number](https://leetcode.com/problems/happy-number)                                                  | easy       |
 | 38. | Aug 12, 2025 | [344. Reverse String](https://leetcode.com/problems/reverse-string)                                              | easy       |
 | 39. | Aug 13, 2025 | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii)                                        | easy       |
+| 40. | Aug 13, 2025 | [2810. Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard)                                           | easy       |
