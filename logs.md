@@ -42,3 +42,4 @@
 | 39. | Aug 13, 2025 | [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii)                                         | easy       |
 | 40. | Aug 13, 2025 | [2810. Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard)                                            | easy       |
 | 41. | Aug 14, 2025 | [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string)| easy       |
+| 42. | Aug 19, 2025 | [263. Ugly Number](https://leetcode.com/problems/ugly-number)                                                     | easy       |
