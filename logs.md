@@ -44,3 +44,4 @@
 | 41. | Aug 14, 2025 | [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string)| easy       |
 | 42. | Aug 19, 2025 | [263. Ugly Number](https://leetcode.com/problems/ugly-number)                                                     | easy       |
 | 43. | Aug 20, 2025 | [292. Nim Game](https://leetcode.com/problems/nim-game)                                                           | easy       |
+| 44. | Aug 20, 2025 | [507. Perfect Number](https://leetcode.com/problems/perfect-number)                                               | easy       |
