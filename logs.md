@@ -48,3 +48,4 @@
 | 45. | Aug 25, 2025 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                        | easy       |
 | 46. | Aug 25, 2025 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)                                   | easy       |
 | 47. | Aug 25, 2025 | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)                             | easy       |
+| 48. | Aug 25, 2025 | [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number)                | easy       |
