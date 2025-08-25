@@ -46,3 +46,4 @@
 | 43. | Aug 20, 2025 | [292. Nim Game](https://leetcode.com/problems/nim-game)                                                           | easy       |
 | 44. | Aug 21, 2025 | [507. Perfect Number](https://leetcode.com/problems/perfect-number)                                               | easy       |
 | 45. | Aug 25, 2025 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                        | easy       |
+| 46. | Aug 25, 2025 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)                                   | easy       |
