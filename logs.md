@@ -45,3 +45,4 @@
 | 42. | Aug 19, 2025 | [263. Ugly Number](https://leetcode.com/problems/ugly-number)                                                     | easy       |
 | 43. | Aug 20, 2025 | [292. Nim Game](https://leetcode.com/problems/nim-game)                                                           | easy       |
 | 44. | Aug 21, 2025 | [507. Perfect Number](https://leetcode.com/problems/perfect-number)                                               | easy       |
+| 45. | Aug 25, 2025 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                        | easy       |
