@@ -19,7 +19,7 @@ def quick_sort(nums, low, high):
 
 
 def partition(nums, low, high) -> int:
-    i, j = -1, low
+    i, j = low - 1, low
     pivot = high
     while j <= pivot - 1:
         if nums[j] < nums[pivot]:
@@ -36,7 +36,7 @@ def partition(nums, low, high) -> int:
         j += 1
 
 
-for case in run_cases:
+for case in submit_cases:
     quick_sort(case[0], case[1], case[2])
     if case[0] == case[-1]:
         print("\033[32mPASS")
