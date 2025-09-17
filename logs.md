@@ -50,3 +50,4 @@
 | 47. | Aug 25, 2025 | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)                             | easy       |
 | 48. | Aug 25, 2025 | [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number)                | easy       |
 | 49. | Aug 26, 2025 | [1984. Minimum Diff](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores)     | easy       |
+| 50. | Sept 17, 2025 | [394. Decode String](https://leetcode.com/problems/decode-string)                                                | medium     |
