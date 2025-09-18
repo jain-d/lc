@@ -54,3 +54,4 @@
 | 51. | Sept 18, 2025 | [1700. No. of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)| easy       |
 | 52. | Sept 18, 2025 | [682. Baseball Game](https://leetcode.com/problems/baseball-game)                                                | easy       |
 | 53. | Sept 18, 2025 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)                 | easy       |
+| 54. | Sept 18, 2025 | [1475. Final Prices Discount](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)      | easy       |
