@@ -56,3 +56,6 @@
 | 53. | Sept 18, 2025 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)                 | easy       |
 | 54. | Sept 19, 2025 | [1475. Final Prices Discount](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)      | easy       |
 | 55. | Sept 19, 2025 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder)                                     | easy       |
+| 56. | Sept 19, 2025 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits)                                                 | easy       |
+| 57. | Sept 19, 2025 | [225. Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues)                            | easy       |
+| 58. | Sept 19, 2025 | [232. Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)                            | easy       |
