@@ -60,3 +60,4 @@
 | 57. | Sep 19, 2025 | [225. Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues)                             | easy       |
 | 58. | Sep 19, 2025 | [232. Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)                             | easy       |
 | 59. | Sep 19, 2025 | [71. Simplify Path](https://leetcode.com/problems/simplify-path)                                                  | medium     |
+| 60. | Sep 19, 2025 | [155. Min Stack](https://leetcode.com/problems/min-stack)                                                         | medium     |
