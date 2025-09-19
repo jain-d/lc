@@ -50,12 +50,13 @@
 | 47. | Aug 25, 2025 | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)                             | easy       |
 | 48. | Aug 25, 2025 | [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number)                | easy       |
 | 49. | Aug 26, 2025 | [1984. Minimum Diff](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores)     | easy       |
-| 50. | Sept 17, 2025 | [394. Decode String](https://leetcode.com/problems/decode-string)                                                | medium     |
-| 51. | Sept 18, 2025 | [1700. No. of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)| easy       |
-| 52. | Sept 18, 2025 | [682. Baseball Game](https://leetcode.com/problems/baseball-game)                                                | easy       |
-| 53. | Sept 18, 2025 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)                 | easy       |
-| 54. | Sept 19, 2025 | [1475. Final Prices Discount](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)      | easy       |
-| 55. | Sept 19, 2025 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder)                                     | easy       |
-| 56. | Sept 19, 2025 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits)                                                 | easy       |
-| 57. | Sept 19, 2025 | [225. Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues)                            | easy       |
-| 58. | Sept 19, 2025 | [232. Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)                            | easy       |
+| 50. | Sep 17, 2025 | [394. Decode String](https://leetcode.com/problems/decode-string)                                                 | medium     |
+| 51. | Sep 18, 2025 | [1700. No. of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | easy       |
+| 52. | Sep 18, 2025 | [682. Baseball Game](https://leetcode.com/problems/baseball-game)                                                 | easy       |
+| 53. | Sep 18, 2025 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)                  | easy       |
+| 54. | Sep 19, 2025 | [1475. Final Prices Discount](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)       | easy       |
+| 55. | Sep 19, 2025 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder)                                      | easy       |
+| 56. | Sep 19, 2025 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits)                                                  | easy       |
+| 57. | Sep 19, 2025 | [225. Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues)                             | easy       |
+| 58. | Sep 19, 2025 | [232. Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)                             | easy       |
+| 59. | Sep 19, 2025 | [71. Simplify Path](https://leetcode.com/problems/simplify-path)                                                  | easy       |
