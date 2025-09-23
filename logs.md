@@ -62,6 +62,6 @@
 | 59. | Sep 19, 2025 | [71. Simplify Path](https://leetcode.com/problems/simplify-path)                                                  | medium     |
 | 60. | Sep 19, 2025 | [155. Min Stack](https://leetcode.com/problems/min-stack)                                                         | medium     |
 | 61. | Sep 20, 2025 | [387. First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string)                   | easy       |
-| 62. | Sep 20, 2025 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)                               | easy       |
-| 63. | Sep 20, 2025 | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)                      | easy       |
-| 64. | Sep 20, 2025 | [950. Reveal Cards in Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order)           | medium     |
+| 62. | Sep 22, 2025 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)                               | easy       |
+| 63. | Sep 23, 2025 | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)                      | easy       |
+| 64. | Sep 23, 2025 | [950. Reveal Cards in Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order)           | medium     |
