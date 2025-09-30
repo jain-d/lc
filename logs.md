@@ -65,5 +65,5 @@
 | 62. | Sep 22, 2025 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)                               | easy       |
 | 63. | Sep 23, 2025 | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)                      | easy       |
 | 64. | Sep 29, 2025 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)                               | easy       |
-| 65. | Sep 29, 2025 | [503. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)                               | medium     |
-| 66. | Sep 30, 2025 | [950. Reveal Cards in Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order)           | medium     |
+| 65. | Sep 30, 2025 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii)                             | medium     |
+| 66. | Sep 30, 2025 | [739. Daily Temperature](https://leetcode.com/problems/daily-temperature)                                         | medium     |
