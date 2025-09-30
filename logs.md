@@ -67,3 +67,4 @@
 | 64. | Sep 29, 2025 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)                               | easy       |
 | 65. | Sep 30, 2025 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii)                             | medium     |
 | 66. | Sep 30, 2025 | [739. Daily Temperature](https://leetcode.com/problems/daily-temperature)                                         | medium     |
+| 67. | Sep 30, 2025 | [853. Car Fleet](https://leetcode.com/problems/car-fleet)                                                         | medium     |
