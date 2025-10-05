@@ -45,26 +45,26 @@
 | 42. | Aug 19, 2025 | [263. Ugly Number](https://leetcode.com/problems/ugly-number)                                                     | easy       |
 | 43. | Aug 20, 2025 | [292. Nim Game](https://leetcode.com/problems/nim-game)                                                           | easy       |
 | 44. | Aug 21, 2025 | [507. Perfect Number](https://leetcode.com/problems/perfect-number)                                               | easy       |
-| 45. | Aug 25, 2025 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                        | easy       |
-| 46. | Aug 25, 2025 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)                                   | easy       |
-| 47. | Aug 25, 2025 | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)                             | easy       |
-| 48. | Aug 25, 2025 | [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number)                | easy       |
-| 49. | Aug 26, 2025 | [1984. Minimum Diff](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores)     | easy       |
-| 50. | Sep 17, 2025 | [394. Decode String](https://leetcode.com/problems/decode-string)                                                 | medium     |
-| 51. | Sep 18, 2025 | [1700. No. of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | easy       |
-| 52. | Sep 18, 2025 | [682. Baseball Game](https://leetcode.com/problems/baseball-game)                                                 | easy       |
-| 53. | Sep 18, 2025 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)                  | easy       |
-| 54. | Sep 19, 2025 | [1475. Final Prices Discount](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)       | easy       |
-| 55. | Sep 19, 2025 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder)                                      | easy       |
-| 56. | Sep 19, 2025 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits)                                                  | easy       |
-| 57. | Sep 19, 2025 | [225. Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues)                             | easy       |
-| 58. | Sep 19, 2025 | [232. Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)                             | easy       |
-| 59. | Sep 19, 2025 | [71. Simplify Path](https://leetcode.com/problems/simplify-path)                                                  | medium     |
-| 60. | Sep 19, 2025 | [155. Min Stack](https://leetcode.com/problems/min-stack)                                                         | medium     |
-| 61. | Sep 20, 2025 | [387. First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string)                   | easy       |
-| 62. | Sep 22, 2025 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)                               | easy       |
-| 63. | Sep 23, 2025 | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)                      | easy       |
-| 64. | Sep 29, 2025 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)                               | easy       |
-| 65. | Sep 30, 2025 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii)                             | medium     |
-| 66. | Sep 30, 2025 | [739. Daily Temperature](https://leetcode.com/problems/daily-temperature)                                         | medium     |
-| 67. | Sep 30, 2025 | [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array)            | medium     |
+| 45. | Aug 25, 2025 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)                                   | easy       |
+| 46. | Aug 25, 2025 | [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)                             | easy       |
+| 47. | Aug 25, 2025 | [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number)                | easy       |
+| 48. | Aug 26, 2025 | [1984. Minimum Diff](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores)     | easy       |
+| 49. | Sep 17, 2025 | [394. Decode String](https://leetcode.com/problems/decode-string)                                                 | medium     |
+| 50. | Sep 18, 2025 | [1700. No. of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | easy       |
+| 51. | Sep 18, 2025 | [682. Baseball Game](https://leetcode.com/problems/baseball-game)                                                 | easy       |
+| 52. | Sep 18, 2025 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)                  | easy       |
+| 53. | Sep 19, 2025 | [1475. Final Prices Discount](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)       | easy       |
+| 54. | Sep 19, 2025 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder)                                      | easy       |
+| 55. | Sep 19, 2025 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits)                                                  | easy       |
+| 56. | Sep 19, 2025 | [225. Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues)                             | easy       |
+| 57. | Sep 19, 2025 | [232. Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)                             | easy       |
+| 58. | Sep 19, 2025 | [71. Simplify Path](https://leetcode.com/problems/simplify-path)                                                  | medium     |
+| 59. | Sep 19, 2025 | [155. Min Stack](https://leetcode.com/problems/min-stack)                                                         | medium     |
+| 60. | Sep 20, 2025 | [387. First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string)                   | easy       |
+| 61. | Sep 22, 2025 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)                               | easy       |
+| 62. | Sep 23, 2025 | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets)                      | easy       |
+| 63. | Sep 29, 2025 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)                               | easy       |
+| 64. | Sep 30, 2025 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii)                             | medium     |
+| 65. | Sep 30, 2025 | [739. Daily Temperature](https://leetcode.com/problems/daily-temperature)                                         | medium     |
+| 66. | Sep 30, 2025 | [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array)            | medium     |
+| 67. | Oct 05, 2025 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                        | easy       |
