@@ -70,3 +70,4 @@
 | 67. | Oct 07, 2025 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                        | easy       |
 | 68. | Oct 07, 2025 | [160. Intersection of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-list)             | easy       |
 | 69. | Oct 07, 2025 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)                               | easy       |
+| 70. | Oct 07, 2025 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)                                         | easy       |
