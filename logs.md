@@ -68,3 +68,4 @@
 | 65. | Sep 30, 2025 | [739. Daily Temperature](https://leetcode.com/problems/daily-temperature)                                         | medium     |
 | 66. | Sep 30, 2025 | [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array)            | medium     |
 | 67. | Oct 07, 2025 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                        | easy       |
+| 68. | Oct 07, 2025 | [160. Intersection of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-list)             | easy       |
