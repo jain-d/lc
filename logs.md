@@ -69,3 +69,4 @@
 | 66. | Sep 30, 2025 | [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array)            | medium     |
 | 67. | Oct 07, 2025 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                        | easy       |
 | 68. | Oct 07, 2025 | [160. Intersection of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-list)             | easy       |
+| 69. | Oct 07, 2025 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)                               | easy       |
