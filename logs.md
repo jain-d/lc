@@ -67,4 +67,4 @@
 | 64. | Sep 30, 2025 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii)                             | medium     |
 | 65. | Sep 30, 2025 | [739. Daily Temperature](https://leetcode.com/problems/daily-temperature)                                         | medium     |
 | 66. | Sep 30, 2025 | [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array)            | medium     |
-| 67. | Oct 05, 2025 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                        | easy       |
+| 67. | Oct 07, 2025 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                        | easy       |
