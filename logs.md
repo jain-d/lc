@@ -72,6 +72,6 @@
 | 69. | Oct 07, 2025 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)                               | easy       |
 | 70. | Oct 07, 2025 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)                                         | easy       |
 | 71. | Oct 08, 2025 | [203. Remove Linked List Element](https://leetcode.com/problems/remove-linked-list-element)                       | easy       |
-| 72. | Oct 08, 2025 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i)  | easy       |
-| 73. | Oct 08, 2025 | [705. Design HashSet](https://leetcode.com/problems/design-hashset)                                               | easy       |
-| 74. | Oct 08, 2025 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap)                                               | easy       |
+| 72. | Oct 09, 2025 | [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i)  | fake easy  |
+| 73. | Oct 09, 2025 | [705. Design HashSet](https://leetcode.com/problems/design-hashset)                                               | easy       |
+| 74. | Oct 09, 2025 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap)                                               | easy       |
