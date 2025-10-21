@@ -76,3 +76,4 @@
 | 73. | Oct 10, 2025 | [705. Design HashSet](https://leetcode.com/problems/design-hashset)                                               | easy       |
 | 74. | Oct 10, 2025 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap)                                               | easy       |
 | 75. | Oct 11, 2025 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)                 | medium     |
+| 76. | Oct 22, 2025 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)                  | easy       |
