@@ -79,3 +79,4 @@
 | 76. | Oct 22, 2025 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)                  | easy       |
 | 77. | Oct 22, 2025 | [100. Same Tree](https://leetcode.com/problems/same-tree)                                                         | easy       |
 | 78. | Oct 22, 2025 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)                                               | easy       |
+| 79. | Oct 22, 2025 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                   | easy       |
