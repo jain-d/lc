@@ -80,3 +80,4 @@
 | 77. | Oct 22, 2025 | [100. Same Tree](https://leetcode.com/problems/same-tree)                                                         | easy       |
 | 78. | Oct 22, 2025 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)                                               | easy       |
 | 79. | Oct 22, 2025 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                   | easy       |
+| 80. | Oct 23, 2025 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)                                   | easy       |
