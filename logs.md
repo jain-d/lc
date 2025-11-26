@@ -84,3 +84,5 @@
 | 81. | Nov 03, 2025 | [383. Ransom Note](https://leetcode.com/problems/ransom-note)                                                     | easy       |
 | 82. | Nov 14, 2025 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails)                                           | easy       |
 | 83. | Nov 21, 2025 | [143. Reorder List](https://leetcode.com/problems/reorder-list)                                                   | medium     |
+| 84. | Nov 26, 2025 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)                                  | easy       |
+| 85. | Nov 27, 2025 | [181. Employees Earning More than Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)| easy    |
