@@ -86,3 +86,4 @@
 | 83. | Nov 21, 2025 | [143. Reorder List](https://leetcode.com/problems/reorder-list)                                                   | medium     |
 | 84. | Nov 26, 2025 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)                                  | easy       |
 | 85. | Nov 27, 2025 | [181. Employees Earning More than Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)| easy    |
+| 86. | Dec 20, 2025 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)                     | easy       |
