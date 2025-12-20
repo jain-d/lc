@@ -1,3 +1,7 @@
-# Conquering LeetCode
+# Conquering LeetCode, One Invariant at a Time
 
-Aim is to solve 1 leetcode problem daily.
+Notes and solutions, organized around invariants
+
+[divyanshu](https://github.com/jain-d/lc/tree/divyanshu)
+
+[mohimanyu](https://github.com/jain-d/lc/tree/mohimanyu)
