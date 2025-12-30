@@ -89,3 +89,5 @@
 | 86. | Dec 20, 2025 | [208. Implement trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree)                     | medium     |
 | 87. | Dec 22, 2025 | [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)                                                 | medium     |
 | 88. | Dec 23, 2025 | [648. Replace Words](https://leetcode.com/problems/replace-words)                                                 | medium     |
+| 89. | Dec 28, 2025 | [2932. Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i)                        | easy       |
+| 90. | Dec 30, 2025 | [3042. Count Prefix and Suffix Pair I](https://leetcode.com/problems/count-prefix-and-suffix-pair-i)              | easy       |
