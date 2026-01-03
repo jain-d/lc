@@ -92,3 +92,6 @@
 | 89. | Dec 28, 2025 | [2932. Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i)                        | easy       |
 | 90. | Dec 30, 2025 | [3042. Count Prefix and Suffix Pair I](https://leetcode.com/problems/count-prefix-and-suffix-pair-i)              | easy       |
 | 91. | Jan 01, 2026 | [820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words)                             | medium     |
+| 92. | Jan 03, 2026 | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers)                             | medium     |
+| 93. | Jan 03, 2026 | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers)                             | easy       |
+| 94. | Jan 03, 2026 | [139. Word Break](https://leetcode.com/problems/word-break)                                                       | medium     |
