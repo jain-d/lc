@@ -1,8 +1,6 @@
 from __future__ import annotations
+from collections import deque
 from dataclasses import dataclass
-
-# forgot binary tree, trying it out again
-
 
 @dataclass
 class Node:
@@ -42,11 +40,26 @@ class Tree:
             return "NONE"
 
     def bfs(self):
+        current_node = self.root
+        order: deque = deque([current_node,])
+        fast_mem_check: set = {id(current_node)}
 
+        while order:
+            print()
+            for node in order:
+                print(node.val, end="   ")
+            visiting_node = order.popleft()
+            if visiting_node.left and (lnode_address := id(visiting_node.left)) not in fast_mem_check:
+                order.append(visiting_node.left)
+                fast_mem_check.add(lnode_address)
+            if visiting_node.right and (rnode_address := id(visiting_node.right)) not in fast_mem_check:
+                order.append(visiting_node.right)
+                fast_mem_check.add(rnode_address)
+        
 
 tree = Tree()
 
-for entry in [5, 3, 9, 2, 4, 1, 9, 7, 12, 6, 8, 10, 11]:
+for entry in [5, 3, 9, 2, 4, 1, 7, 12, 6, 8, 10, 11]:
     tree.insert(entry)
 
-
+tree.bfs()
