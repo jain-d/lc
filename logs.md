@@ -95,3 +95,6 @@
 | 92. | Jan 03, 2026 | [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers)                             | medium     |
 | 93. | Jan 03, 2026 | [139. Word Break](https://leetcode.com/problems/word-break)                                                       | medium     |
 | 94. | Feb 06, 2026 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)                                     | easy       |
+| 95. | Feb 18, 2026 | [195. Tenth Line](https://leetcode.com/problems/tenth-line)                                                       | easy       |
+| 96. | Feb 18, 2026 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)                         | easy       |
+| 97. | Feb 18, 2026 | [586. Customers Placing the Largest Number of Orders](https://leetcode.com/problems/customers-placing-the-largest-number-of-orders)| easy       |
